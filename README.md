@@ -9,7 +9,18 @@ At the end of this workshop, learners will get familiar with Azure and Azure App
 ### Apps to be deployed
 
 - Static Website
+    Ref Link: https://onepagelove.com/download/me
+
+    **Steps:**
+
+    - Create a public storage account and upload the website files to the bucket
+    - Configure the storage for website hosting
+    - Speed up content delivery using Azure CDN
+    - Access your website using the CDN endpoint
+
 - Fullstack App build with Node.js | https://github.com/vincentiroleh/coin-trigger
+
+
 - WordPress App
 
 ## Resources
