@@ -13,8 +13,9 @@ At the end of this workshop, learners will get familiar with Azure and Azure App
 
     **Steps:**
 
-    - Create a public storage account and upload the website files to the bucket
+    - Create a public storage account
     - Configure the storage for website hosting
+    - Upload the website files and folders using the Storage Explorer
     - Speed up content delivery using Azure CDN
     - Access your website using the CDN endpoint
 
