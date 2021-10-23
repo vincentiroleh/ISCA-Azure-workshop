@@ -8,9 +8,9 @@ At the end of this workshop, learners will get familiar with Azure and Azure App
 
 ### Apps to be deployed
 
+- Static Website
 - Fullstack App build with Node.js | https://github.com/vincentiroleh/coin-trigger
 - WordPress App
-- Python API
 
 ## Resources
 
